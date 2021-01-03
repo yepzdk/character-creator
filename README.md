@@ -2,7 +2,6 @@
 
 In this workshop, you'll build a Sims-style character creation screen.
 
-
 ## Mockups
 
 Desktop:
@@ -112,7 +111,6 @@ On mobile devices, the cards should stack horizontally, and sit near the bottom 
 <img alt="Screen recording, showing a mobile variant of the application" src="./docs/mobile-variant.gif" style="max-width: 100%" />
 
 **NOTE:** This is a challenging stretch goal! It may require some CSS features we haven't covered yet. This is meant as an extra challenge for advanced students. Feel free to skip it!
-
 
 ## Submissions
 
