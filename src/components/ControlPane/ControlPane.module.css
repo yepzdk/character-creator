@@ -24,3 +24,11 @@
   font-weight: 400;
   color: hsl(0deg, 0%, 30%);
 }
+
+@media screen and (max-width: 480px) {
+  .controlPane {
+    max-width: 90vw;
+    display: inline-block;
+    margin-right: 24px;
+  }
+}

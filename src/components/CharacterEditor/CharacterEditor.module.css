@@ -36,3 +36,26 @@
 .controlColumn {
   max-width: 50%;
 }
+
+@media screen and (max-width: 480px) {
+  .header {
+    display: none;
+  }
+  .characterWrapper {
+    width: 100%;
+    min-height: 90%;
+    left: 10%;
+    right: auto;
+    z-index: 1;
+  }
+  .controlColumn {
+    max-width: 100%;
+    white-space: nowrap;
+    z-index: 2;
+    position: fixed;
+    top: 70%;
+    overflow-x: auto;
+    left: 0;
+    padding-left: 24px;
+  }
+}
